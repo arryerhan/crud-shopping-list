@@ -9,4 +9,5 @@ Easy Universal Buttons
 
 Screenshot is below
 
-![screen](https://github.com/user-attachments/assets/6c0f9d06-b443-4ad3-b6ac-a934dcd17355)
+
+![screen](https://github.com/user-attachments/assets/cd7c0163-822a-4ac1-963b-280bd4b95d56)
